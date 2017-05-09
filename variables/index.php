@@ -23,8 +23,8 @@ echo html_header('Proba de formularios');
 
     <form action="#" method="get">
       <div class="form-group">
-        <label for="variable-post">Variable GET</label>
-        <input type="text" class="form-control" id="variable-post" name="variable_post" placeholder="Correo-e" />
+        <label for="variable-get">Variable GET</label>
+        <input type="text" class="form-control" id="variable-get" name="variable_get" placeholder="Correo-e" />
       </div>
 
       <button type="submit" class="btn btn-default">Enviar</button>
